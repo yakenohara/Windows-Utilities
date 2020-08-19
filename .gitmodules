@@ -13,6 +13,3 @@
 [submodule "like-repositories/PowerShell-ConvertClipText_URI_WinLocal"]
 	path = like-repositories/PowerShell-ConvertClipText_URI_WinLocal
 	url = https://github.com/yakenohara/PowerShell-ConvertClipText_URI_WinLocal.git
-[submodule "like-repositories/Cygwin-expand-clip"]
-	path = like-repositories/Cygwin-expand-clip
-	url = https://github.com/yakenohara/Cygwin-expand-clip.git
