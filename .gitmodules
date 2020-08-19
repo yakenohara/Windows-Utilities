@@ -1,0 +1,15 @@
+[submodule "like-repositories/VBScript-ClipItemList"]
+	path = like-repositories/VBScript-ClipItemList
+	url = https://github.com/yakenohara/VBScript-ClipItemList.git
+[submodule "like-repositories/BAT-DeleteJunkFolder"]
+	path = like-repositories/BAT-DeleteJunkFolder
+	url = https://github.com/yakenohara/BAT-DeleteJunkFolder.git
+[submodule "like-repositories/PowerShell-PercentEncodeDecode"]
+	path = like-repositories/PowerShell-PercentEncodeDecode
+	url = https://github.com/yakenohara/PowerShell-PercentEncodeDecode.git
+[submodule "like-repositories/PowerShell-Touch"]
+	path = like-repositories/PowerShell-Touch
+	url = https://github.com/yakenohara/PowerShell-Touch.git
+[submodule "like-repositories/PowerShell-ConvertClipText_URI_WinLocal"]
+	path = like-repositories/PowerShell-ConvertClipText_URI_WinLocal
+	url = https://github.com/yakenohara/PowerShell-ConvertClipText_URI_WinLocal.git
